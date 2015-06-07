@@ -5,9 +5,7 @@
 Using K-means clustering (or another clustering algorithm), find clusters
 of cereals and explain the clusters.
 
-## Objectives
-
-### Learning Objectives
+## Learning Objectives
 
 After completing this assignment, you should be able to:
 
