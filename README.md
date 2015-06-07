@@ -23,11 +23,6 @@ After completing this assignment, you should be able to:
   * a `requirements.txt` file
   * An IPython notebook with your code and findings
 
-### Requirements  
-
-* Passing unit tests
-* No PEP8 or Pyflakes warnings or errors
-
 ## Normal Mode
 
 Read in the data in `cereals.csv` and cluster the cereals by the features you
