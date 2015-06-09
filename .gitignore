@@ -111,3 +111,10 @@ crashlytics.properties
 crashlytics-build.properties
 
 atusdata/
+
+.direnv/
+Image_exercise.ipynb
+bird_small.jpg
+bird_small_2.jpg
+bird_small_3.jpg
+bird_small_resample.jpg
